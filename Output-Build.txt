@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: TrainingcoG, Configuration: Debug Any CPU ------
+1>C:\Users\Deskside\source\repos\Training\TrainingcoG\TrainingcoG\PageObjects\RegistrationPage.cs(16,13,16,24): warning CS0618: 'PageFactory' is obsolete: 'The PageFactory implementation in the .NET bindings is deprecated and will be removed in a future release. This portion of the code has been migrated to the DotNetSeleniumExtras repository on GitHub (https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras)'
+1>C:\Users\Deskside\source\repos\Training\TrainingcoG\TrainingcoG\PageObjects\LoginPage.cs(16,13,16,24): warning CS0618: 'PageFactory' is obsolete: 'The PageFactory implementation in the .NET bindings is deprecated and will be removed in a future release. This portion of the code has been migrated to the DotNetSeleniumExtras repository on GitHub (https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras)'
+1>C:\Users\Deskside\source\repos\Training\TrainingcoG\TrainingcoG\PageObjects\RegistrationPage.cs(92,30,92,32): warning CS0168: The variable 'ex' is declared but never used
+1>  TrainingcoG -> C:\Users\Deskside\source\repos\Training\TrainingcoG\TrainingcoG\bin\Debug\TrainingcoG.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
